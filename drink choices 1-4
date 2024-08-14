@@ -1,0 +1,23 @@
+#include <iostream>
+int main() {
+
+int choice;
+cin >> "choice";
+switch (choice);
+// not sure if this is copie righted or not
+case 1:
+cout << "coffee"<< endl;
+break;
+case 2:
+cout << "water"<< endl;
+break;
+case 3:
+cout << "soda"<< endl;
+break;
+case 4:
+cout << "gatorade"<< endl;
+break;
+default:
+cout << "invalid choice"<< endl;
+
+}
